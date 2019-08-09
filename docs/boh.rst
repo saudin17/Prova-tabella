@@ -1,9 +1,0 @@
-BOh
-
-
-+---+
-|   |
-+---+
-
-
-.. bottom of content
